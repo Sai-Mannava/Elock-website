@@ -1,0 +1,10 @@
+.pic1{
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 20%;
+    width: 50%;
+    aspect-ratio: 1/1;
+    place-items: center;
+    overflow: hidden;
+}
+
